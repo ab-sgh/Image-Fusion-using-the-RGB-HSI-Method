@@ -1,10 +1,19 @@
-<img width="1757" height="711" alt="X" src="https://github.com/user-attachments/assets/63ed3f90-3580-4cbf-90de-f72ef2cf0dd1" /># 🛰️ RGB-HSI Pan-Sharpening Pipeline
+# 🛰️ RGB-HSI Pan-Sharpening Pipeline
 
 A robust, memory-efficient Streamlit application for fusing low-resolution multispectral (MS) satellite imagery with high-resolution panchromatic (PAN) bands using the Hue-Saturation-Intensity (HSI) color space.
 
 This tool performs block-by-block processing to handle massive `.tif` satellite files without exhausting system RAM. It also provides an interactive dashboard to verify both structural enhancement and spectral fidelity.
 
 ---
+
+# Visual Analysis
+
+<img width="1757" height="711" alt="X" src="https://github.com/user-attachments/assets/5dd0a799-2015-4bbc-a0e3-5709810ac66d" />
+
+<img width="1819" height="894" alt="Y" src="https://github.com/user-attachments/assets/8e0cece8-d450-4484-8fe6-2733e86cecbd" />
+
+<img width="1738" height="608" alt="Z" src="https://github.com/user-attachments/assets/466596d7-78fb-4a59-823c-7d80671d81f2" />
+
 
 ## Key Features
 
@@ -61,11 +70,6 @@ pip install -r requirements.txt
 streamlit run main.py
 
 ---
-
-# Visual Analysis
-
-<img width="1757" height="711" alt="X" src="https://github.com/user-attachments/assets/5dd0a799-2015-4bbc-a0e3-5709810ac66d" />
-
 
 ## Project Structure
 
