@@ -1,0 +1,5 @@
+streamlit
+numpy
+rasterio
+matplotlib
+streamlit-image-comparison
