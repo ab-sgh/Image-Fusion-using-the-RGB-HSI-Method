@@ -36,12 +36,12 @@ This tool performs block-by-block processing to handle massive `.tif` satellite 
 
 ---
 
-## Installation & Setup
+### Installation & Setup
 
 It is recommended to use a virtual environment.
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/rgb-hsi-pansharpening.git
+git clone https://github.com/ab-sgh/Image-Fusion-using-the-RGB-HSI-Method
 cd rgb-hsi-pansharpening
 
 ### 2. Create & Activate Virtual Environment
